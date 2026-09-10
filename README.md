@@ -1,2 +1,3 @@
-# v7r1tools
-Basic Python GUI app (wip) using balongflash and balongload
+# Balong v7r1 tools
+Basic Python GUI app using balongflash and balongload
+Work in progress.
